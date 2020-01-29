@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Blur der!"
-date:   2020-01-24 15:29:55 -0500
-categories: jekyll update
----
-Blur derder
